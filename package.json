@@ -14,7 +14,7 @@
     "dev",
     "hotreloading"
   ],
-  "author": "Arvind Ravulavaru <arvind.ravulavaru@gmail.com> (http://thejackalofjavascript.com)",
+  "author": "Muhammad Nasir",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
